@@ -1,6 +1,5 @@
 # Analyze-and-predict-stock-market-volatility
 
-###
 This study analyzes the correlation between the two stock markets using linear 
 regression model to confirm the low correlation between the two stock markets using 
 the data of KOSPI 200, a representative of the Korean stock market, and S&P 500, a 
@@ -13,4 +12,3 @@ Through the time series analysis, the volatility of the two stocks is close to t
 T-distribution and the volatility distribution does not exceed the outliers, so the 
 SARIMAX model and LSTM model were used to predict the stock price, as both 
 models have high coefficients of determination and good prediction effect.
-###
